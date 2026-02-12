@@ -1,11 +1,9 @@
 ---
 name: extreme-testing-design
-description: 'Design stress tests that push systems to breaking points, compressing
-  months of learning into days through extreme conditions. Racing is R&D: the track
-  teaches what the workshop cannot.'
+description: 'Design stress tests that push systems to breaking points, compressing months of learning into days through extreme conditions. Racing is R&D: the track teaches what the workshop cannot.'
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   author: sethmblack
 keywords:
 - compression
